@@ -8,7 +8,7 @@ MitoNet is a specialized ResNet-style classifier optimized for small patch class
 
 The evaluation pipeline:
 1. Loads the pre-trained MitoNet model
-2. Evaluates it on the Liu test set
+2. Evaluates it on the Liu test set (nearly 2300 samples)
 3. Generates comprehensive metrics and visualizations
 4. Analyzes error cases for further improvement
 
