@@ -15,7 +15,7 @@ The evaluation pipeline:
 ## Repository Structure
 
 ```
-notebook-pipeline/
+mitonet-evaluation/
 ├── best_model.pth                  # Pre-trained MitoNet model 
 ├── liu-evaluation.ipynb            # Evaluation notebook
 ├── liu-test-set/                   # Test dataset
@@ -37,8 +37,8 @@ pip install torch torchvision torchaudio numpy matplotlib seaborn scikit-learn p
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/notebook-pipeline.git
-cd notebook-pipeline
+git clone https://github.com/your-username/mitonet-evaluation.git
+cd mitonet-evaluation
 ```
 
 ### 2. Set up the Liu test set
