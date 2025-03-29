@@ -37,7 +37,7 @@ pip install torch torchvision torchaudio numpy matplotlib seaborn scikit-learn p
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/mitonet-evaluation.git
+git clone https://github.com/celiabenitez/mitonet-evaluation.git
 cd mitonet-evaluation
 ```
 
