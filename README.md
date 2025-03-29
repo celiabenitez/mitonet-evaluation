@@ -21,7 +21,6 @@ mitonet-evaluation/
 ├── liu-test-set/                   # Test dataset
 │   ├── positive/                   # Ki-67 positive nuclei patches
 │   └── negative/                   # Ki-67 negative nuclei patches
-└── results/                        # Directory for saving evaluation results
 ```
 
 ## Prerequisites
@@ -29,7 +28,7 @@ mitonet-evaluation/
 You can install all necessary dependencies using pip:
 
 ```bash
-pip install torch torchvision torchaudio numpy matplotlib seaborn scikit-learn pandas pillow tqdm
+pip3 install torch torchvision torchaudio numpy matplotlib seaborn scikit-learn pandas pillow tqdm
 ```
 
 ## Usage
